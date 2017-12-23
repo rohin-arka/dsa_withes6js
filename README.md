@@ -17,3 +17,8 @@
 * next (function) => Moves current position forward one element
 * currPos (function) => Returns the current position in list
 * moveTo (function) => Moves the current position to specified position
+
+
+
+### Reference
+https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches/dp/1449364934
